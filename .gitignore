@@ -1,0 +1,10 @@
+.venv/
+.idea/
+__pycache__/
+.ipynb_checkpoints/
+data/raw/*
+data/processed/*
+models/*
+outputs/*
+submissions/*
+!data/raw/README.md

@@ -1,0 +1,14 @@
+{
+  "project": "MEDA Low-Memory Learning Project",
+  "notebooks": [
+    "01_resource_aware_eda.ipynb",
+    "02_preprocessing_and_validation.ipynb",
+    "03_local_model_training.ipynb",
+    "04_bounded_tuning_and_selection.ipynb",
+    "05_submission_and_critical_review.ipynb"
+  ],
+  "contains_competition_data": false,
+  "contains_trained_models": false,
+  "contains_submission_predictions": false,
+  "contains_completed_discussions": false
+}
